@@ -1,0 +1,128 @@
+body {
+  background-color: #D3D3D3;
+}
+
+h3 {
+  color: #321A36;
+  background-color: ;
+  font-size: ;
+  text-decoration: underline;;
+}
+
+p {
+  font-weight: ;
+  text-align: ;
+}
+
+li {
+   list-style-type: none;
+}
+
+ul li:nth-of-type(1):before{
+  display: inline-block;  
+   width: 30px;
+   height: 30px;
+   margin-right: 5px;
+   content: "";
+   background:     url("http://www.w3.org/html/wg/drafts/html/master/images/HTML5_Logo.png") no-repeat 0 0;
+   background-size: 100%;
+}
+
+ul li:nth-of-type(2):before{
+  display: inline-block;
+    width: 30px;
+    height: 30px;
+    margin-right: 5px;
+    content: "";
+    background: url("http://www.veryicon.com/icon/png/Movie%20%26%20TV/Star%20Wars/Obi%20Wans%20light%20saber.png") no-repeat 0 0;
+    background-size: 100%;
+}
+
+ul li:nth-of-type(3):before{
+  display: inline-block;
+    width: 30px;
+    height: 30px;
+    margin-right: 5px;
+    content: "";
+    background: url("http://www.javatpoint.com/images/javascript/javascript_logo.png") no-repeat 0 0;
+    background-size: 100%;
+}
+
+ul li:nth-of-type(4):before{
+  display: inline-block;
+    width: 30px;
+    height: 30px;
+    margin-right: 5px;
+    content: "";
+    background: url("https://www-csli.stanford.edu/sites/default/files/imagecache/medium/SEPthinker_0.jpg") no-repeat 0 0;
+    background-size: 100%;
+}
+
+ul li:nth-of-type(5):before{
+  display: inline-block;
+    width: 30px;
+    height: 30px;
+    margin-right: 5px;
+    content: "";
+    background: url("http://upload.wikimedia.org/wikipedia/en/archive/c/c2/20111218221416!Psychiatry_logo.svg") no-repeat 0 0;
+    background-size: 100%;
+}
+/**/
+
+ol li:nth-of-type(1):before{
+  display: inline-block;
+    width: 30px;
+    height: 30px;
+    margin-right: 5px;
+    content: "";
+    background: url("http://www.disney.co.uk/muppets/cms_res/images/download_pics/icons_avatars/kermit-icon-125x125.jpg") no-repeat 0 0;
+    background-size: 100%;
+}
+
+ol li:nth-of-type(2):before{
+  display: inline-block;
+    width: 30px;
+    height: 30px;
+    margin-right: 5px;
+    content: "";
+    background: url("http://www.bootstrapwebsite.com/wp-content/uploads/2014/07/ecwid-icon-125x125.png") no-repeat 0 0;
+    background-size: 100%;
+}
+
+ol li:nth-of-type(3):before{
+  display: inline-block;
+    width: 30px;
+    height: 30px;
+    margin-right: 5px;
+    content: "";
+    background: url("http://cdn.flaticon.com/png/256/45801.png") no-repeat 0 0;
+    background-size: 100%;
+}
+
+ol li:nth-of-type(4):before{
+  display: inline-block;
+    width: 30px;
+    height: 30px;
+    margin-right: 5px;
+    content: "";
+    background: url("http://www.iconpng.com/png/pictograms/pound.png") no-repeat 0 0;
+    background-size: 100%;
+}
+.col-md-4{
+  border-style:ridge;
+  border-color:black;
+  margin: 5px;
+  width: 30%;
+}
+
+.collapse navbar-collapse{
+  color: black;
+}
+
+.container-fluid{
+  background-color: black;
+  color: black;
+}
+
+
+
