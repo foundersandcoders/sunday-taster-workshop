@@ -1,0 +1,11 @@
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>JS Bin</title>
+</head>
+<body>
+  <h1>Hello world!</h1>
+  <p>My name is hazel and this is a nice cat!</p>
+  <img src="http://fc03.deviantart.net/fs71/i/2012/246/3/6/cat_face_3_by_furiarossa-d5deea7.jpg" width="300">
+</body>
+</html>
